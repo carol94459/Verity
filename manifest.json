@@ -1,0 +1,13 @@
+{
+  "name": "Verity — espaço para refletir",
+  "short_name": "Verity",
+  "description": "Um espaço privado para refletir sobre relações e sentimentos.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101326",
+  "theme_color": "#101326",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
